@@ -1,2 +1,2 @@
 #classExamples
-This a c++ class examples
+This are c++ class examples
