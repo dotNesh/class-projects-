@@ -1,3 +1,6 @@
+
+/*This an atm code project*/
+
 #include <iostream>
 #include <cstdlib>
 #include <string>
